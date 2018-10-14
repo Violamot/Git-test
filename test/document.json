@@ -3419,7 +3419,8 @@
     "version": 112
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Page 2"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
